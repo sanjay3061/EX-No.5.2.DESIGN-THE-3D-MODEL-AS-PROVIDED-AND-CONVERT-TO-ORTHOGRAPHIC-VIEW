@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![Screenshot_20230131_094742](https://user-images.githubusercontent.com/121215929/215661610-ad9b570b-4102-4b97-b81a-b1cedb610528.png)
 
 
 ## RESULT:
